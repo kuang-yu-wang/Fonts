@@ -31,6 +31,7 @@
 當你Clone下來後會發現，沒有任何字體在資料夾內。
 這個時候可以選擇：
 ```bash
+git submodule init ; 
 git submodule update --remote --recursive
 ```
 將所有的Repo一次全部Clone下來（時間較長）。
