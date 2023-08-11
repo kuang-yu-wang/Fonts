@@ -3,12 +3,47 @@
 我們統整了一些常用且實用的字體們，
 希望能分享給所有的人。
 
-下面我們依照不同字體的特色進行分類。
+## Guide 快速索引
 
-- Serif Fonts: 襯線字體。
-- Sans Serif: 無襯線字體。
-- Mono Space: 等寬字體。
-- Hand Write: 手寫字體。
+[Installation 下載方式](#installation-下載方式)
+
+[Serif 襯線字體](#serif-襯線字體)
+
+[Sans-Serif 無襯線字體](#sans-serif-無襯線字體)
+
+[Monospace 等寬字體](#mono-space-等寬字體)
+
+[Handwrite 手寫字體](#hand-write-手寫字體)
+
+---
+
+## Installation 下載方式。
+
+### 直接下載。
+
+在Github中進入任一個資料夾，點擊喜歡的Repo。
+進入喜歡的Repo中右下角有Release，可以在裡面找到作者釋放出來的版本。
+
+或者直接點擊下面介紹中的Repo網址，施行後面步驟即可。
+
+### This Repo。
+
+當你Clone下來後會發現，沒有任何字體在資料夾內。
+這個時候可以選擇：
+```bash
+git submodule update --remote --recursive
+```
+將所有的Repo一次全部Clone下來（時間較長）。
+或者切換目錄到你想要的目錄去：
+```bash
+git submodule update --remote ./
+```
+Clone單一目錄就好。
+
+再懶人一點，也可：
+```
+git clone https://github.com/marx-w/Fonts.git --recursive
+```
 
 ---
 
