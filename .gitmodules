@@ -31,3 +31,42 @@
 [submodule "monospace/FiraCode"]
 	path = monospace/FiraCode
 	url = https://github.com/tonsky/FiraCode.git
+[submodule "serif/Iansui-Font"]
+	path = serif/Iansui-Font
+	url = https://github.com/ButTaiwan/iansui.git
+[submodule "serif/LXGW-WenKai"]
+	path = serif/LXGW-WenKai
+	url = https://github.com/lxgw/LxgwWenKai.git
+[submodule "serif/GenYo-Font"]
+	path = serif/GenYo-Font
+	url = https://github.com/ButTaiwan/genyo-font.git
+[submodule "serif/GenWan-Font"]
+	path = serif/GenWan-Font
+	url = https://github.com/ButTaiwan/genwan-font.git
+[submodule "sans-serif/GenSen-Font"]
+	path = sans-serif/GenSen-Font
+	url = https://github.com/ButTaiwan/gensen-font.git
+[submodule "sans-serif/Huninn-Font"]
+	path = sans-serif/Huninn-Font
+	url = https://github.com/justfont/open-huninn-font.git
+[submodule "sans-serif/GenYog-Font"]
+	path = sans-serif/GenYog-Font
+	url = https://github.com/ButTaiwan/genyog-font.git
+[submodule "monospace/Fira-Code"]
+	path = monospace/Fira-Code
+	url = https://github.com/tonsky/FiraCode.git
+[submodule "monospace/WD-XL"]
+	path = monospace/WD-XL
+	url = https://github.com/NightFurySL2001/WD-XL-font.git
+[submodule "handwrite/ChenYuLuoYan-Font"]
+	path = handwrite/ChenYuLuoYan-Font
+	url = https://github.com/Chenyu-otf/chenyuluoyan_thin.git
+[submodule "handwrite/JasonHandWrite-Font"]
+	path = handwrite/JasonHandWrite-Font
+	url = https://github.com/jasonhandwriting/JasonHandwriting.git
+[submodule "handwrite/Peak-Font"]
+	path = handwrite/Peak-Font
+	url = https://github.com/xlfont/the-peak-font.git
+[submodule "handwrite/YoZai-Font"]
+	path = handwrite/YoZai-Font
+	url = https://github.com/lxgw/yozai-font.git
